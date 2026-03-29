@@ -1,0 +1,1 @@
+console.log("this message is from external javascript ")
